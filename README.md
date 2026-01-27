@@ -6,4 +6,4 @@ This is my first README.
 
 My name is Chrissy Wang, I am a student at Ben Welsh's Coding the News Spring 2026.
 
-This is my second sentence. 
+Chrissy Wang is a student journalist based in New York who focuses on data-driven reporting and digital storytelling. She is particularly interested in local government and public policy, and is learning Python, data visualization, and web scraping to support investigative projects.
