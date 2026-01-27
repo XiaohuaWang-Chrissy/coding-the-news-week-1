@@ -6,4 +6,4 @@ This is my first README.
 
 My name is Chrissy Wang, I am a student at Ben Welsh's Coding the News Spring 2026.
 
-This is my second sentence. 1
+This is my second sentence. 
