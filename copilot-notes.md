@@ -96,7 +96,10 @@ Use shell to clean outputs (rm -rf outputs/*).
 Use shell to run Python tools (poetry run nbexec notebooks/), which executes the Python notebooks.
 They "support" each other because shell and Makefile automate the environment, while Python does the actual data processing. Without shell/Makefile, you'd have to manually install packages and run notebooks. Without Python, there'd be no analysis.
 If this still doesn't click, can you tell me which part is confusing (e.g., "Is shell scripting like typing commands in Terminal?" or "Does the Makefile run Python?")? I can explain with more specifics or analogies!
+
+
 3: https://github.com/carolinadatadesk/NC-Public-Health-Data 
+
 Q: How did they analyzed data?
 A: The project analyzed North Carolina local health department expenditures to assess trends in public health funding and staffing, particularly in the context of preparedness for epidemics like COVID-19. Here's a summary of their data analysis approach:
 Data Sources and Preparation
